@@ -30,3 +30,9 @@ These are some basic must have developer tools
 - [Try Ruby](http://tryruby.org/levels/1/challenges/0)
 - [Mozilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [w3Schools](https://www.w3schools.com/)
+- [freeCodeCamp](https://freecodecamp.com/)
+- [CSS-Tricks](https://css-tricks.com/)
+
+## News
+- [Hacker News](https://news.ycombinator.com/)
+- [dev.to](https://dev.to)
