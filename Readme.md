@@ -15,6 +15,7 @@ These are some basic must have developer tools
 ## Software
 - [Homebrew](https://brew.sh/)
 - [Git](https://git-scm.com/)
+- [Slack](https://slack.com/get)
 
 ## Text editors
 - [Atom](https://atom.io/)
