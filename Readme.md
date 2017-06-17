@@ -25,10 +25,9 @@ These are some basic must have developer tools
 - [Meetup.com](https://www.meetup.com/)
 
 ## Education
-- [Ruby on Rails](http://guides.rubyonrails.org/)
+- [codecademy](https://www.codecademy.com/)
 - [Codewars.com](https://www.codewars.com/)
 - [Try Ruby](http://tryruby.org/levels/1/challenges/0)
-- [Mozilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [w3Schools](https://www.w3schools.com/)
 - [freeCodeCamp](https://freecodecamp.com/)
 - [CSS-Tricks](https://css-tricks.com/)
@@ -36,3 +35,7 @@ These are some basic must have developer tools
 ## News
 - [Hacker News](https://news.ycombinator.com/)
 - [dev.to](https://dev.to)
+
+## Documentation
+- [Ruby on Rails](http://guides.rubyonrails.org/)
+- [Mozilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
